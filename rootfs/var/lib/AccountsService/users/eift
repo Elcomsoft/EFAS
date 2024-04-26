@@ -1,0 +1,4 @@
+[User]
+Session=plasma
+Icon=/var/lib/AccountsService/icons/eift.png
+SystemAccount=false

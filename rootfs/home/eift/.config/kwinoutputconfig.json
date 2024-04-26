@@ -1,0 +1,47 @@
+[
+    {
+        "data": [
+            {
+                "autoRotation": "InTabletMode",
+                "connectorName": "HDMI-A-1",
+                "edidHash": "9fc5727b9bcd94812acb9760d3f25277",
+                "edidIdentifier": "GSM 23489 79975 7 2021 0",
+                "highDynamicRange": false,
+                "iccProfilePath": "",
+                "mode": {
+                    "height": 2160,
+                    "refreshRate": 60000,
+                    "width": 3840
+                },
+                "overscan": 0,
+                "rgbRange": "Automatic",
+                "scale": 1.5,
+                "sdrBrightness": 200,
+                "sdrGamutWideness": 0,
+                "transform": "Normal",
+                "vrrPolicy": "Automatic",
+                "wideColorGamut": false
+            }
+        ],
+        "name": "outputs"
+    },
+    {
+        "data": [
+            {
+                "lidClosed": false,
+                "outputs": [
+                    {
+                        "enabled": true,
+                        "outputIndex": 0,
+                        "position": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "priority": 0
+                    }
+                ]
+            }
+        ],
+        "name": "setups"
+    }
+]

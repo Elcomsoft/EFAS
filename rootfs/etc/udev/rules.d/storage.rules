@@ -1,0 +1,1 @@
+SUBSYSTEM=="block", GROUP="storage", MODE="0775", RUN="/bin/sh -c 'chmod g+w /run/media/*/*; chown root:storage /run/media/*/*'"

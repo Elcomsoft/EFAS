@@ -1,0 +1,6 @@
+[Desktop Entry]
+Exec=/home/eift/.config/old-autostart-scripts/setwallpaper.sh
+Icon=application-x-executable-script
+Name=setwallpaper.sh
+Type=Application
+X-KDE-AutostartScript=true
